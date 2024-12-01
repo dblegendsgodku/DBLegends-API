@@ -13,3 +13,4 @@
 | ![PVP Rank Data](https://github.com/user-attachments/assets/df9e75ff-e124-477d-bd23-8988e9212124) | PVP Rank Data      | WIP (Almost done)     |
 | ![Attribute Data](https://github.com/user-attachments/assets/8232b049-e9a1-4537-9abe-9eeaf54c3a05)  | Attribute Data     | WIP                   |
 | ![Zenkai Data](https://github.com/user-attachments/assets/663adef6-bf48-4281-ade3-fb3fda8f6178)  | Zenkai Data        | WIP                   |
+
